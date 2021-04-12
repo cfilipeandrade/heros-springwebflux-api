@@ -1,4 +1,4 @@
-Foi adicionado ao codigo a funcionalidade atualizar. Para que a api ficasse completa.
+Foi adicionado ao codigo a funcionalidade atualizar e modifiquei a deletar. Para que a api ficasse completa.
 
 Executar dynamo: 
 
