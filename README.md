@@ -1,3 +1,5 @@
+Foi adicionado ao codigo a funcionalidade atualizar. Para que a api ficasse completa.
+
 Executar dynamo: 
 
  java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
